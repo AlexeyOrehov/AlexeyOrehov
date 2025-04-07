@@ -19,7 +19,7 @@
 
 📈 **Цель:** постоянно развиваться в аналитике данных и стать Data Scientist'ом
 
-📫 **Как связаться:** [alexey.orehov.analyst@gmail.com](mailto:alexey.orehov.analyst@gmail.com)
+📫 **Как связаться:** [a.orehov2021@yandex.ru](mailto:a.orehov2021@yandex.ru)
 
 ---
 
